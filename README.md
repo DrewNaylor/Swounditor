@@ -1,21 +1,14 @@
-[![Audacity](https://forum.audacityteam.org/styles/prosilver/theme/images/Audacity-logo_75px_trans_forum.png)](https://www.audacityteam.org) 
-=========================
+>**NB** At the moment I'm on my phone because it's the middle of the night, so I can't change much. Description and other Audacity-related stuff will be changed as soon as possible.
 
-[**Audacity**](https://www.audacityteam.org) is an easy-to-use, multi-track audio editor and recorder for Windows, Mac OS X, GNU/Linux and other operating systems. Developed by a group of volunteers as open source.
+# Swounditor: The Swell Sound Editor
 
-- **Recording** from any real, or virtual audio device that is available to the host system.
-- **Export / Import** a wide range of audio formats, extendible with FFmpeg.
-- **High quality** using 32-bit float audio processing.
-- **Plug-ins** Support for multiple audio plug-in formats, including VST, LV2, AU.
-- **Macros** for chaining commands and batch processing.
-- **Scripting** in Python, Perl, or any language that supports named pipes.
-- **Nyquist** Very powerful built-in scripting language that may also be used to create plug-ins.
-- **Editing** multi-track editing with sample accuracy and arbitrary sample rates.
-- **Accessibility** for VI users.
-- **Analysis and visualization** tools to analyze audio, or other signal data.
+Swounditor is a fork of Audacity which focuses on removing telemetry. A few other forks exist, but I wanted to do things my way. This may be bumpy for a bit as I don't know C++.
 
-## Getting Started
+## Getting Started (Temporarily-archived text)
 
+The text here was unmodified from the original text and will be changed when I'm at my computer since it can be important, so I don't want to change it on my phone as it's difficult to focus.
+
+Original text:<br>
 For end users, the latest Windows and macOS release version of Audacity is available from the [Audacity website](https://www.audacityteam.org/download/).
 Help with using Audacity is available from the [Audacity Forum](https://forum.audacityteam.org/).
 
