@@ -4,6 +4,8 @@
 
 Swounditor is a fork of Audacity which focuses on removing telemetry. I also take issue with the new privacy policy. A few other forks exist, but I wanted to do things my way. This may be bumpy for a bit as I don't know C++.
 
+Aside from removing telemetry, I'll also bring the "OK... Audacious!" text in the About window back in some form if it's possible.
+
 ## Getting Started (Temporarily-archived text)
 
 The text here was unmodified from the original text and will be changed when I'm at my computer since it can be important, so I don't want to change it on my phone as it's difficult to focus.
