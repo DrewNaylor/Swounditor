@@ -2,7 +2,7 @@
 
 # Swounditor: The Swell Sound Editor
 
-Swounditor is a fork of Audacity which focuses on removing telemetry. A few other forks exist, but I wanted to do things my way. This may be bumpy for a bit as I don't know C++.
+Swounditor is a fork of Audacity which focuses on removing telemetry. I also take issue with the new privacy policy. A few other forks exist, but I wanted to do things my way. This may be bumpy for a bit as I don't know C++.
 
 ## Getting Started (Temporarily-archived text)
 
